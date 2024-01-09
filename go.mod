@@ -1,4 +1,4 @@
-module github.com/paketo-buildpacks/yarn-install
+module github.com/initializ-buildpacks/yarn-install
 
 go 1.18
 

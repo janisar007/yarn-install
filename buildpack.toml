@@ -1,14 +1,14 @@
 api = "0.7"
 
 [buildpack]
-  homepage = "https://github.com/paketo-buildpacks/yarn-install"
-  id = "paketo-buildpacks/yarn-install"
-  name = "Paketo Buildpack for Yarn Install"
+  homepage = "https://github.com/initializ-buildpacks/yarn-install"
+  id = "initializ-buildpacks/yarn-install"
+  name = "Initializ Buildpack for Yarn Install"
   sbom-formats = ["application/vnd.cyclonedx+json", "application/spdx+json", "application/vnd.syft+json"]
 
   [[buildpack.licenses]]
     type = "Apache-2.0"
-    uri = "https://github.com/paketo-buildpacks/yarn-install/blob/main/LICENSE"
+    uri = "https://github.com/initializ-buildpacks/yarn-install/blob/main/LICENSE"
 
 [metadata]
   include-files = ["bin/build", "bin/detect", "bin/run", "bin/setup-symlinks", "buildpack.toml"]

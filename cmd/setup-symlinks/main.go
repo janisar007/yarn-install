@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/paketo-buildpacks/yarn-install/cmd/setup-symlinks/internal"
+	"github.com/initializ-buildpacks/yarn-install/cmd/setup-symlinks/internal"
 )
 
 func main() {

@@ -15,8 +15,8 @@ import (
 	"github.com/paketo-buildpacks/packit/v2/sbom"
 	"github.com/paketo-buildpacks/packit/v2/scribe"
 
-	yarninstall "github.com/paketo-buildpacks/yarn-install"
-	"github.com/paketo-buildpacks/yarn-install/fakes"
+	yarninstall "github.com/initializ-buildpacks/yarn-install"
+	"github.com/initializ-buildpacks/yarn-install/fakes"
 	"github.com/sclevine/spec"
 
 	. "github.com/onsi/gomega"

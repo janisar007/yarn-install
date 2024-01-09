@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/paketo-buildpacks/yarn-install/cmd/setup-symlinks/internal"
+	"github.com/initializ-buildpacks/yarn-install/cmd/setup-symlinks/internal"
 	"github.com/sclevine/spec"
 	"github.com/sclevine/spec/report"
 

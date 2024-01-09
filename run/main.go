@@ -13,7 +13,7 @@ import (
 	"github.com/paketo-buildpacks/packit/v2/scribe"
 	"github.com/paketo-buildpacks/packit/v2/servicebindings"
 
-	yarninstall "github.com/paketo-buildpacks/yarn-install"
+	yarninstall "github.com/initializ-buildpacks/yarn-install"
 )
 
 type SBOMGenerator struct{}

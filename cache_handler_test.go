@@ -3,7 +3,7 @@ package yarninstall_test
 import (
 	"testing"
 
-	yarninstall "github.com/paketo-buildpacks/yarn-install"
+	yarninstall "github.com/initializ-buildpacks/yarn-install"
 	"github.com/sclevine/spec"
 
 	. "github.com/onsi/gomega"
