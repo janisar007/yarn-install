@@ -1,6 +1,6 @@
 {
-  "builder": "index.docker.io/paketobuildpacks/builder-jammy-buildpackless-full",
-  "build-plan": "github.com/ForestEckhardt/build-plan",
+  "builder": "index.docker.io/initializbuildpacks/securepacks-initzbuilder",
+  "build-plan": "github.com/paketo-community/build-plan",
   "node-engine": "github.com/initializ-buildpacks/node-engine",
   "yarn": "github.com/initializ-buildpacks/yarn"
 }
