@@ -2,6 +2,8 @@ module github.com/initializ-buildpacks/yarn-install
 
 go 1.22
 
+toolchain go1.22.5
+
 require (
 	github.com/BurntSushi/toml v1.3.2
 	github.com/onsi/gomega v1.29.0
