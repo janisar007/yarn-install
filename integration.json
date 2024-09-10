@@ -2,5 +2,5 @@
   "builder": "index.docker.io/initializbuildpacks/securepacks-initzbuilder",
   "build-plan": "github.com/paketo-community/build-plan",
   "node-engine": "github.com/initializ-buildpacks/node-engine",
-  "yarn": "github.com/initializ-buildpacks/yarn"
+  "yarn": "github.com/paketo-buildpacks/yarn"
 }
